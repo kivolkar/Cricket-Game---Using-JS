@@ -1,0 +1,30 @@
+body {
+  text-align: center;
+}
+
+.choice-button {
+  height: 100px;
+  width: 100px;
+  border: none;
+  margin: 10px;
+  background-color: rgb(68, 104, 223);
+  cursor: pointer;
+}
+
+.edit_image {
+  height: 75px;
+}
+
+#user-move {
+  color: rgb(241, 49, 49);
+}
+
+#computer-move {
+  color: rgb(76, 5, 28);
+}
+#result {
+  color: rgb(88, 39, 214);
+}
+#score {
+  color: rgb(19, 95, 66);
+}
